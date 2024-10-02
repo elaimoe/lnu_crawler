@@ -14,7 +14,7 @@ import smtplib
 username = ''  # 学号
 password = ''  # 密码
 to_address = ''  # 收件人邮箱
-mail_host = 'smtp.163.com'  # smtp服务器
+mail_host = ''  # smtp服务器
 mail_user = ''  # 发件人邮箱
 mail_password = ''  # 邮箱smtp密钥
 
